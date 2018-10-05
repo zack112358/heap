@@ -1,0 +1,4 @@
+*.o
+.tup
+main
+*.swp
